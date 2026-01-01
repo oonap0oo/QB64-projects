@@ -1,5 +1,5 @@
 # QB64-projects
-coding in basic language using QB64 
+coding in basic language using [QB64](https://qb64.com/) 
 
 ## Julia fractal
 
