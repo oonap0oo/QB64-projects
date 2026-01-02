@@ -16,3 +16,11 @@ This basic code generates a plot of the Julia Fractal.
 ![julia2_screenshot2.png](julia2_screenshot2.png)
 
 ![julia2_screenshot1.png](julia2_screenshot1.png)
+
+## Sierpinski triangle
+
+Code: [sierpinski3.bas](sierpinski3.bas)
+
+This piece of code plots a Sierpinski triangle using the random 
+
+![sierpinski3_screenshot.png](sierpinski3_screenshot.png)
