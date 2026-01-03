@@ -32,5 +32,12 @@ From [wikipedia](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle#Chaos_ga
  5. Plot the current position.
  5. Repeat from step 3.
 
-
 ![sierpinski3_screenshot.png](sierpinski3_screenshot.png)
+
+## Logistic map
+
+Code: [logistic.bas](logistic.bas)
+
+A bifurcation diagram of the logistic map is plotted.
+
+![logistic_screenshot.png](logistic_screenshot.png)
