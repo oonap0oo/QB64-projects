@@ -41,3 +41,13 @@ Code: [logistic.bas](logistic.bas)
 A bifurcation diagram of the logistic map is plotted.
 
 ![logistic_screenshot.png](logistic_screenshot.png)
+
+## Lorenz System
+
+Code: [lorenz.bas](lorenz.bas)
+
+This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values.
+
+![lorenz_screenshot.png](lorenz_screenshot.png)
+
+
