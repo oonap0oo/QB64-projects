@@ -36,7 +36,7 @@ Next k
 Sleep
 
 Sub euler_lorenz ' calculate next x,y,z values using Euler method
-    Dim As Double dx_dt, dy_dt, dz_dt, x_new, y_new, z_new
+    Dim As Double dx_dt, dy_dt, dz_dt
     dx_dt = sigma * (y - x) ' lorenz system with three 1st order diff. eq.
     dy_dt = x * (rho - z) - y
     dz_dt = x * y - beta * z
