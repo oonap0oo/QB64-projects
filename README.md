@@ -58,6 +58,24 @@ Code: [lorenz.bas](lorenz.bas)
 
 This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values.
 
+lorenz system with three 1st order differential equations:
+
+    dx/dt = sigma * (y - x) 
+    dy/dt = x * (rho - z) - y
+    dz/dt = x * y - beta * z
+
+Used parameters of the Lorenz system:
+
+    sigma = 10 
+    beta = 8 / 3
+    rho = 28
+
+Initial conditions:
+
+    x = 1.0
+    y = 1.0
+    z = 0.0
+
 ![lorenz_screenshot.png](lorenz_screenshot.png)
 
  
