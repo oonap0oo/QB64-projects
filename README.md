@@ -17,6 +17,16 @@ This basic code generates a plot of the Julia Fractal.
 
 ![julia2_screenshot1.png](julia2_screenshot1.png)
 
+## Mandelbrot fractal
+
+Code: [mandelbrot.bas](mandelbrot.bas)
+
+Similar to the Julia fractal, however initial value of z is now a constant and c varies with coordinates in the image.
+
+![mandelbrot_screenshot1.png](mandelbrot_screenshot1.png)
+![mandelbrot_screenshot2.png](mandelbrot_screenshot2.png)
+![mandelbrot_screenshot3.png](mandelbrot_screenshot3.png)
+
 ## Sierpinski triangle
 
 Code: [sierpinski3.bas](sierpinski3.bas)
@@ -50,4 +60,5 @@ This script draws a sample solution to the Lorenz System. it uses a simple Euler
 
 ![lorenz_screenshot.png](lorenz_screenshot.png)
 
+ 
 
