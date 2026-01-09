@@ -78,5 +78,23 @@ Initial conditions:
 
 ![lorenz_screenshot.png](lorenz_screenshot.png)
 
- 
+ ## King's Dream fractal
 
+ Code: [kings_dream.bas](kings_dream.bas)
+
+The following equations are iterated to find successive x,y values. The color of each x,y point is made brighter
+
+    Sin(a * x) + b * Sin(a * y)    ->  x
+    Sin(c * x) + d * Sin(c * y)    ->  y
+
+Parameters:
+
+    a = 2.879879 
+    b = -0.765145
+    c = -0.966918
+    d = 0.744728
+
+Initial values:
+    x0 = 2.0, y0 = 2.0
+
+![kings_dream_screenshot.png](kings_dream_screenshot.png)
