@@ -82,7 +82,7 @@ Initial conditions:
 
  Code: [kings_dream.bas](kings_dream.bas)
 
-The following equations are iterated to find successive x,y values. The color of each x,y point is made brighter
+The following equations are iterated to find successive x,y values. The more often a x,y point is visited, the brighter the color is made.
 
     Sin(a * x) + b * Sin(a * y)    ->  x
     Sin(c * x) + d * Sin(c * y)    ->  y
