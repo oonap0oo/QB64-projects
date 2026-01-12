@@ -98,3 +98,18 @@ Initial values:
     x0 = 2.0, y0 = 2.0
 
 ![kings_dream_screenshot.png](kings_dream_screenshot.png)
+
+## 3D surface graph
+
+Code: [3dsurf2.bas](3dsurf2.bas)
+
+A 3D surface graph is drawn of 
+
+    z(x,y)=sin(√(x²+y²))/√(x²+y²)
+
+Parts of the surface which are to be hidden are erased using the _MapTriangle() function of QB64
+
+![3dsurf2_screenshot.png](3dsurf2_screenshot.png)
+
+
+
