@@ -111,5 +111,12 @@ Parts of the surface which are to be hidden are erased using the _MapTriangle() 
 
 ![3dsurf2_screenshot.png](3dsurf2_screenshot.png)
 
+## Clock with 7 segment display
+
+Code: [7segment_clock2.bas](7segment_clock2.bas)
+
+The display is drawn, no Fonts are used.
+
+![7segment_screenshot.png](7segment_screenshot.png)
 
 
