@@ -119,4 +119,16 @@ The display is drawn, no Fonts are used.
 
 ![7segment_screenshot.png](7segment_screenshot.png)
 
+## Gingerbread Man Fractal
 
+Code: [gingerbread_man.bas](gingerbread_man.bas)
+
+This fractal is defined by the successive points obtained through:
+
+    1 - y + Abs(x) -> x
+    x -> y
+    an initial point x0,y0
+
+In this code the points are colored based in the distance between successive points
+
+![gingerbread_man_screenshot.png](gingerbread_man_screenshot.png)
