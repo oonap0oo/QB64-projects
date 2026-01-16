@@ -132,3 +132,16 @@ This fractal is defined by the successive points obtained through:
 In this code the points are colored based in the distance between successive points
 
 ![gingerbread_man_screenshot.png](gingerbread_man_screenshot.png)
+
+## Animated Lissajou
+
+An animated lissajou image is created similar to an analog oscilloscope with 2 sine wave signals which are not phase locked. 
+
+The code uses two images: one containing the white scale which has alpha transparency, a second on which the lissajou is drawn. 
+The phase difference between the x and y signal is continuously increased which gives an animated result. 
+
+The code also uses the _Display statement to delay update of the visible image until drawing is completed. 
+
+Code: [lissajou2.bas](lissajou2.bas)
+
+![lissajou2_screenshot.png](lissajou2_screenshot.png)
