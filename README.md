@@ -145,3 +145,25 @@ The code also uses the _Display statement to delay update of the visible image u
 Code: [lissajou2.bas](lissajou2.bas)
 
 ![lissajou2_screenshot.png](lissajou2_screenshot.png)
+
+## Lotka-Volterra predator-prey model
+
+According to Wikipedia:
+
+The Lotka–Volterra equations, also known as the Lotka–Volterra predator–prey model, are a pair of first-order nonlinear differential equations, frequently used to describe the dynamics of biological systems in which two species interact, one as a predator and the other as prey. The populations change through time according to the pair of equations
+
+    du/dt = alpha.u - beta.u.v
+    dv/dt = -gamma.v + delta.u.y
+    
+    u is the prey population density
+    v is the predator population density
+    alpha is the maximum prey per capita growth rate
+    beta is the effect of the presence of predators on the prey death rate
+    gamma is the predator's per capita death rate
+    delta is the effect of the presence of prey on the predator's growth rate
+
+This piece of code calculates a solution and displays graphs of u and v versus time, laso v versus u is plotted. The code uses the Euler method to numerically calculate a solution to the set of two ODEs.
+
+The code: [lotka.bas](lotka.bas)
+
+![lotka_screenshot.png](lotka_screenshot.png)
