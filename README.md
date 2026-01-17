@@ -162,7 +162,7 @@ The Lotka–Volterra equations, also known as the Lotka–Volterra predator–pr
     gamma is the predator's per capita death rate
     delta is the effect of the presence of prey on the predator's growth rate
 
-This piece of code calculates a solution and displays graphs of u and v versus time, laso v versus u is plotted. The code uses the Euler method to numerically calculate a solution to the set of two ODEs.
+This piece of code calculates a solution and displays graphs of u and v versus time, also v versus u is plotted. The code uses the Euler method to numerically calculate a solution to the set of two ODEs.
 
 The code: [lotka.bas](lotka.bas)
 
