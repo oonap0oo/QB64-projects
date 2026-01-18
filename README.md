@@ -167,3 +167,23 @@ This piece of code calculates a solution and displays graphs of u and v versus t
 The code: [lotka.bas](lotka.bas)
 
 ![lotka_screenshot.png](lotka_screenshot.png)
+
+## Modular multiplication circle
+
+Found on the web: "A modular multiplication circle is a visualization that uses a circle to represent numbers in a specific modulus and draws lines to connect points based on a multiplication pattern. "
+
+This code draws a series of modular multiplication circles with interesting combinations of m and p variables.
+
+Code: [mod_circle3.bas](mod_circle3.bas)
+
+<img src="mod_circle_screenshot (1).png"> <img />
+
+<img src="mod_circle_screenshot (3).png"> <img />
+
+<img src="mod_circle_screenshot (5).png"> <img />
+
+<img src="mod_circle_screenshot (8).png"> <img />
+
+<img src="mod_circle_screenshot (9).png"> <img />
+
+Also see the more extensive examples coded in Python: [https://github.com/oonap0oo/Modular-multiplication-circle](https://github.com/oonap0oo/Modular-multiplication-circle)
