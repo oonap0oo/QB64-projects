@@ -17,6 +17,14 @@ This basic code generates a plot of the Julia Fractal.
 
 ![julia2_screenshot1.png](julia2_screenshot1.png)
 
+## Julia legacy version
+
+A legacy version for old times' sake. Using screen 12 from the legacy QBASIC which has 640x480 resolution and a color palette with 16 attributes. The code also uses line numbers refering back to even older basic versions.
+
+The code: [julia_16.bas](julia_16.bas)
+
+![julia_16_screenshot.png](julia_16_screenshot.png)
+
 ## Mandelbrot fractal
 
 Code: [mandelbrot.bas](mandelbrot.bas)
