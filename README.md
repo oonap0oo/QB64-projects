@@ -21,7 +21,9 @@ This basic code generates a plot of the Julia Fractal.
 
 A legacy version for old times' sake. Using screen 12 from the legacy QBASIC which has 640x480 resolution and a color palette with 16 attributes. The code also uses line numbers refering back to even older basic versions.
 
-The code: [julia_16.bas](julia_16.bas)
+This updated version replaces x^2 operators with simple multiplcation x*x for a big speed increase. This was suggested by Simon Harris in Facebook groep 'BASIC Programming Language'. 
+
+The code: [julia_16_2a.bas](julia_16_2a.bas)
 
 ![julia_16_screenshot.png](julia_16_screenshot.png)
 
