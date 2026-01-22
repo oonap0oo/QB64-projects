@@ -197,3 +197,23 @@ Code: [mod_circle3.bas](mod_circle3.bas)
 <img src="mod_circle_screenshot (9).png"> <img />
 
 Also see the more extensive examples coded in Python: [https://github.com/oonap0oo/Modular-multiplication-circle](https://github.com/oonap0oo/Modular-multiplication-circle)
+
+## Spirograph
+
+Drawing images similar to those created using a physical Spirograph
+
+The code: [spirograph3.bas](spirograph3.bas)
+
+    x = (R - tau) * cos(alpha + offset) + rho * cos( (R - tau) / tau * alpha )
+    y = (R - tau) * sin(alpha + offset) - rho * sin( (R - tau) / tau * alpha )
+    alpha: independant variable, is angle of larger wheel
+    offset: inner wheel starts at offset angle for each set of turns
+    R: radius outer wheel is also related to number of teeth
+    tau: radius smaller inner wheel is also related to number of teeth
+    rho: distance position drawing pen from center of smaller wheel
+
+![spirograph_screenshot9.png](spirograph_screenshot9.png)
+![spirograph_screenshot2.png](spirograph_screenshot2.png)
+![spirograph_screenshot3.png](spirograph_screenshot3.png)
+![spirograph_screenshot5.png](spirograph_screenshot5.png)
+![spirograph_screenshot6.png](spirograph_screenshot6.png)
