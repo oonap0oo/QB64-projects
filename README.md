@@ -3,7 +3,7 @@ coding in basic language using [QB64](https://qb64.com/)
 
 ## Julia fractal
 
-Code: [julia2.bas](julia2.bas)
+Code: [julia4.bas](julia4.bas)
 
 This basic code generates a plot of the Julia Fractal.
 
