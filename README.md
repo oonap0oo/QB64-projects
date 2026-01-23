@@ -109,6 +109,24 @@ Initial values:
 
 ![kings_dream_screenshot.png](kings_dream_screenshot.png)
 
+## Hopalong Fractal
+
+The code: [hopalong.bas](hopalong.bas)
+
+A variation of the code for the 'King's dream fractal' yields this 'hopalong' fractal. This script draws the fractal defined by iterating the x,y values through the following function
+
+    x = y - 1 - sqrt(abs(bx - 1 - c)) . sign(x-1)
+    y = a - x - 1
+
+The parameters a,b,c can be any value between 0.0 and 10.0. The initial values for x and y also change the fractal.
+A lot of combinations seem to give an intresting fractal.
+
+![hopalong1.png](hopalong1.png)
+
+![hopalong3.png](hopalong3.png)
+
+![hopalong5.png](hopalong5.png)
+
 ## 3D surface graph
 
 Code: [3dsurf2.bas](3dsurf2.bas)
