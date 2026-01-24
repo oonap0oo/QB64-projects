@@ -127,6 +127,32 @@ A lot of combinations seem to give an intresting fractal.
 
 ![hopalong5.png](hopalong5.png)
 
+## Gumowski-Mira fractal
+
+The code: [gumowski_mira.bas](gumowski_mira.bas)
+
+This Gumowski-Mira fractal seems very sensitive to parameter and intial values.
+This script draws the fractal defined by iterating the x,y values through the following function
+
+        f(x) = ax + 2(1-a). x² / (1+x²)²
+        xn+1 = by + f(xn)
+        yn+1 = f(xn+1) - xn
+
+with constants for example, they can be varied to give different fractals
+
+        a = -0.7  a should be within [-1,1]
+        b = 1.0 should be 1.0 (or very close?)
+
+and initial values of x=-5.5, y=-5.0, they should be in [-20,20]
+
+![gumowski_mira1.png](gumowski_mira1.png)
+
+![gumowski_mira4.png](gumowski_mira4.png)
+
+![gumowski_mira6.png](gumowski_mira6.png)
+
+![gumowski_mira19.png](gumowski_mira19.png)
+
 ## 3D surface graph
 
 Code: [3dsurf2.bas](3dsurf2.bas)
