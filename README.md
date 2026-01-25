@@ -153,6 +153,27 @@ and initial values of x=-5.5, y=-5.0, they should be in [-20,20]
 
 ![gumowski_mira19.png](gumowski_mira19.png)
 
+## Quadrup Two
+
+The code: [quadruptwo.bas](quadruptwo.bas)
+
+A further variation of the code for the 'King's dream fractal' yields the 'Quadrup Two' fractal. This script draws the fractal defined by iterating the x,y values through the following function
+
+    x = y - sgn(x) * sin(ln|b * x - c|) * atan( (c * xn - b)2 )
+    y = a - x
+
+The constants a,b,c and inital values for x and y can be varied to yield different results.
+
+![QuadrupTwo7.png](QuadrupTwo7.png)
+
+![QuadrupTwo2.png](QuadrupTwo2.png)
+
+![QuadrupTwo3png](QuadrupTwo3.png)
+
+![QuadrupTwo4.png](QuadrupTwo4.png)
+
+![QuadrupTwo1.png](QuadrupTwo1.png)
+
 ## 3D surface graph
 
 Code: [3dsurf2.bas](3dsurf2.bas)
