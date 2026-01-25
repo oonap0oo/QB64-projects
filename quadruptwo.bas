@@ -4,8 +4,7 @@ OPTION _EXPLICIT
 
 CONST XMAX = 900 ' image dimensions
 CONST YMAX = 900
-' constants fractal: The parameters a, b and c can be any floating point value between 0 and +10
-CONST a = 10.0
+CONST a = 10.0 ' constants fractal
 CONST b = 2.0
 CONST c = 2.0
 CONST x0 = 0.0, y0 = 0.0 ' initial values
