@@ -29,13 +29,13 @@ FOR counter = 1 TO N
     y = a - xold - 1
     xscr = XMAX * (x + 400) / 800
     yscr = YMAX * (y + 400) / 800
-    co = POINT(xscr, yscr)
-    IF co < comax THEN
-        pr = _RED(co): pg = _GREEN(co): pb = _BLUE(co)
-        pr = pr + 3: pg = pg + 1: pb = pb + 5
-        co = _RGB32(pr, pg, pb)
-        PSET (xscr, yscr), co
-    END IF
+    co = POINT(xscr, yscr) ' sampling color value at coord.
+    pr = _RED(co): pg = _GREEN(co): pb = _BLUE(co) ' color value into r,g,b
+    pr = pr - 7 * (counter > (N / 3)) ' increase r,g,b depending loop counter
+    pg = pg - 3 * (counter < (N / 2))
+    pb = pb - 14 * (counter > (2 * N / 3))
+    co = _RGB32(pr, pg, pb) ' restore r,g,b into color value and draw point
+    PSET (xscr, yscr), co
 NEXT counter
 SLEEP
 
