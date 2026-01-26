@@ -123,9 +123,17 @@ A lot of combinations seem to give an intresting fractal.
 
 ![hopalong1.png](hopalong1.png)
 
+![hopalong2.png](hopalong2.png)
+
 ![hopalong3.png](hopalong3.png)
 
+![hopalong3.png](hopalong3.png)
+
+![hopalong4.png](hopalong4.png)
+
 ![hopalong5.png](hopalong5.png)
+
+![hopalong6.png](hopalong6.png)
 
 ## Gumowski-Mira fractal
 
