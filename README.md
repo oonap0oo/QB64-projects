@@ -290,3 +290,11 @@ The code: [spirograph3.bas](spirograph3.bas)
 ![spirograph_screenshot3.png](spirograph_screenshot3.png)
 ![spirograph_screenshot5.png](spirograph_screenshot5.png)
 ![spirograph_screenshot6.png](spirograph_screenshot6.png)
+
+## Basic Calculator
+
+A very basic calculator, it has a user interface with buttons which are implemented in QB64.
+
+The code: [calc3.bas](calc3.bas)
+
+![calc_recording.gif](calc_recording.gif)
