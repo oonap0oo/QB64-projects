@@ -1,4 +1,4 @@
-' Very BAsic Calculator
+' Very Basic Calculator
 ' Mostly made to try out mouse interaction and button functionality coded in QB64
 OPTION _EXPLICIT
 
@@ -176,5 +176,6 @@ DATA "=",240,200,50,180,".",240,0,50,80,"0",240,100,50,80
 DATA "Vx",0,0,50,80,"C",0,100,50,80,"CE",0,200,50,80
 ' terminate with "" and zeros
 DATA "",0,0,0,0
+
 
 
