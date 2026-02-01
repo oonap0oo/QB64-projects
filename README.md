@@ -184,15 +184,15 @@ The constants a,b,c and inital values for x and y can be varied to yield differe
 
 ## 3D surface graph
 
-Code: [3dsurf2.bas](3dsurf2.bas)
+Code: [3dsurfpr4.bas](3dsurfpr4.bas)
 
 A 3D surface graph is drawn of 
 
     z(x,y)=sin(√(x²+y²))/√(x²+y²)
 
-Parts of the surface which are to be hidden are erased using the _MapTriangle() function of QB64
+Parts of the surface which are to be hidden are erased using the _MapTriangle() function of QB64. Using projection a vanishing point is added to the image.
 
-![3dsurf2_screenshot.png](3dsurf2_screenshot.png)
+![3dsurfpr_screenshot.png](3dsurfpr_screenshot.png)
 
 ## Clock with 7 segment display
 
