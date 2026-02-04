@@ -301,7 +301,9 @@ The code: [calc3.bas](calc3.bas)
 ![calc_recording.gif](calc_recording.gif)
 
 ## Rabinovich-Fabrikant System
-This piece of code will only compile with the QB64 Phoenix edition due to the use of the _Min() and _Max() functions. These could be replaced with suitable if..then statements to accomplish the same functionality.
+This piece of code will only compile with the [QB64 Phoenix edition](https://www.qb64phoenix.com/) due to the use of the _Min() and _Max() functions. These could be replaced with suitable if..then statements to accomplish the same functionality.
+
+The [Rabinovich-Fabrikant equations](https://en.wikipedia.org/wiki/Rabinovich%E2%80%93Fabrikant_equations) are 3 coupled differential equations:
 
     dx/dt = y * (z - 1 + x * x) + gamma * x
     dy/dt = x * (3 * z + 1 - x * x) + gamma * y
