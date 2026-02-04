@@ -299,3 +299,21 @@ A very basic calculator, it has a user interface with buttons which are implemen
 The code: [calc3.bas](calc3.bas)
 
 ![calc_recording.gif](calc_recording.gif)
+
+## Rabinovich-Fabrikant System
+This piece of code will only compile with the QB64 Phoenix edition due to the use of the _Min() and _Max() functions. These could be replaced with suitable if..then statements to accomplish the same functionality.
+
+    dx/dt = y * (z - 1 + x * x) + gamma * x
+    dy/dt = x * (3 * z + 1 - x * x) + gamma * y
+    dz/dt = -2 * z * (alpha + x * y)
+    alpha, gamma are parameters
+
+It graphs a solution to the Rabinovich-Fabrikant equations which have three unknowns x,y z. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing. 
+
+The code: [Rabinovich_Fabrikant.bas](Rabinovich_Fabrikant.bas)
+
+Two examples:
+
+![Rabinovich_Fabrikant1.png](Rabinovich_Fabrikant1.png)
+![Rabinovich_Fabrikant2.png](Rabinovich_Fabrikant2.png)
+
