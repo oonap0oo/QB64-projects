@@ -337,7 +337,7 @@ The Aizawa attractor can give a spherical appearance, ot is defined by the follo
     e = 0.25
     f = 0.1
 
-The code graphs a set of solutions to the Rabinovich-Fabrikant equations which have three unknowns x,y z. It uses randomised initial conditions for the x parameter. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing.
+The code graphs a set of solutions to the equations of thr Aizawa attractor which have three unknowns x,y and z. It uses randomised initial conditions for the x parameter. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing. For each solution run a random color is used.
 
 ![aizawa_attractor_rnd1.png](aizawa_attractor_rnd1.png)
 ![aizawa_attractor_rnd2.png](aizawa_attractor_rnd2.png)
