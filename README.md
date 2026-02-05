@@ -324,7 +324,7 @@ This piece of code will only compile with the [QB64 Phoenix edition](https://www
 
 The code: [aizawa_attractor_rnd.bas](aizawa_attractor_rnd.bas)
 
-The Aizawa attractor can give a spherical appearance, ot is defined by the following coupled differential equations:
+The Aizawa attractor can give a spherical appearance, it is defined by the following coupled differential equations:
 
     dx/dt = (z - b) * x - d * y 
     dy/dt = d * x + (z - b) * y
@@ -337,7 +337,7 @@ The Aizawa attractor can give a spherical appearance, ot is defined by the follo
     e = 0.25
     f = 0.1
 
-The code graphs a set of solutions to the equations of thr Aizawa attractor which have three unknowns x,y and z. It uses randomised initial conditions for the x parameter. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing. For each solution run a random color is used.
+The code graphs a set of solutions to the equations of the Aizawa attractor which have three unknowns x,y and z. It uses randomised initial conditions for the x parameter. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing. For each solution run a random color is used.
 
 ![aizawa_attractor_rnd1.png](aizawa_attractor_rnd1.png)
 ![aizawa_attractor_rnd2.png](aizawa_attractor_rnd2.png)
