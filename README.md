@@ -201,7 +201,7 @@ Code: [7segment_clock2.bas](7segment_clock2.bas)
 
 The display is drawn, no Fonts are used.
 
-![7segment_screenshot.png](7segment_screenshot.png)
+![7segment_record.gif](7segment_record.gif)
 
 ## Gingerbread Man Fractal
 
