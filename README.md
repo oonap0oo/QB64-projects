@@ -228,7 +228,7 @@ The code also uses the _Display statement to delay update of the visible image u
 
 Code: [lissajou2.bas](lissajou2.bas)
 
-![lissajou2_screenshot.png](lissajou2_screenshot.png)
+![lissajou2_recording.gif](lissajou2_recording.gif)
 
 ## Lotka-Volterra predator-prey model
 
