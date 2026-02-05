@@ -319,3 +319,27 @@ Two examples:
 ![Rabinovich_Fabrikant1.png](Rabinovich_Fabrikant1.png)
 ![Rabinovich_Fabrikant2.png](Rabinovich_Fabrikant2.png)
 
+## Aizawa Attractor
+This piece of code will only compile with the [QB64 Phoenix edition](https://www.qb64phoenix.com/) due to the use of the _Min() and _Max() functions. These could be replaced with suitable if..then statements to accomplish the same functionality.
+
+The code: [aizawa_attractor_rnd.bas](aizawa_attractor_rnd.bas)
+
+The Aizawa attractor can give a spherical appearance, ot is defined by the following coupled differential equations:
+
+    dx/dt = (z - b) * x - d * y 
+    dy/dt = d * x + (z - b) * y
+    dz/dt = c + a * z - z * z * z / 3.0 - (x * x + y * y) * (1 + e * z) + f * z * x * x * x
+    There are 5 parameters, the follwing values were used:
+    a = 0.95 
+    b = 0.7
+    c = 0.6
+    d = 3.5
+    e = 0.25
+    f = 0.1
+
+The code graphs a set of solutions to the Rabinovich-Fabrikant equations which have three unknowns x,y z. It uses randomised initial conditions for the x parameter. The code then uses rotations and projection to convert each x,y,z point into a 2D representation for graphing.
+
+![aizawa_attractor_rnd1.png`(aizawa_attractor_rnd1.png)
+![aizawa_attractor_rnd2.png`(aizawa_attractor_rnd2.png)
+![aizawa_attractor_rnd3.png`(aizawa_attractor_rnd3.png)
+![aizawa_attractor_rnd4.png`(aizawa_attractor_rnd4.png)
