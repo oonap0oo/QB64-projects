@@ -343,3 +343,13 @@ The code graphs a set of solutions to the equations of the Aizawa attractor whic
 ![aizawa_attractor_rnd2.png](aizawa_attractor_rnd2.png)
 ![aizawa_attractor_rnd3.png](aizawa_attractor_rnd3.png)
 ![aizawa_attractor_rnd4.png](aizawa_attractor_rnd4.png)
+
+## Pascal's Triangle
+
+This code prints the last digit of the values of the Pascal's triangle.
+
+The odd values are marked with color, by doing this a Sierpinksy's triangle appears.
+
+The code: [pascals_triangle2.bas](pascals_triangle2.bas)
+
+![pascals_triangle2_2.png](pascals_triangle2_2.png)
