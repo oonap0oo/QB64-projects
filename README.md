@@ -353,3 +353,26 @@ The odd values are marked with color, by doing this a Sierpinksy's triangle appe
 The code: [pascals_triangle2.bas](pascals_triangle2.bas)
 
 ![pascals_triangle2_2.png](pascals_triangle2_2.png)
+
+## Thomas Attractor
+
+The code graphs solution to the equations of the Thomas attractor which have three unknowns x,y and z. The 3D figure is rotated and projected to give an animated 2D representation.
+
+The code: [Thomas_attractor4.bas](Thomas_attractor4.bas)
+
+The Thomas attractor is defined by the following coupled differential equations:
+
+    dx/dt = Sin(y) - b * x  
+    dy/dt = Sin(z) - b * y
+    dz/dt = Sin(x) - b * z
+    There are one parameter
+    b = 0.185
+    The following initial values are used:
+    x0 = 0.2 
+    y0 = 0.5
+    z0 = 0.3
+
+A still image from the animated output:
+
+![Thomas_attractor4_screenshot.png](Thomas_attractor4_screenshot.png)
+
