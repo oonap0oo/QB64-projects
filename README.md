@@ -371,7 +371,9 @@ The Thomas attractor is defined by the following coupled differential equations:
     x0 = 0.2 
     y0 = 0.5
     z0 = 0.3
-    
+
+This is a GIF screen recording of the output, the real output tends to be smoother.
+
 <a href="Thomas_attractor4_recording.gif">
 <img src="Thomas_attractor4_recording.gif" width="500"></img>
 </a>
