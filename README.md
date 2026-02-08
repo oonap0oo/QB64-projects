@@ -374,5 +374,5 @@ The Thomas attractor is defined by the following coupled differential equations:
 
 A still image from the animated output:
 
-![Thomas_attractor4_screenshot.png](Thomas_attractor4_screenshot.png)
+![Thomas_attractor4_recording.gif](Thomas_attractor4_recording.gif)
 
