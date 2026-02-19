@@ -64,9 +64,9 @@ A bifurcation diagram of the logistic map is plotted.
 
 ## Lorenz System
 
-Code: [lorenz.bas](lorenz.bas)
+This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values. Then it uses rotation matrices to rotate the 3D values around the z axis. A 2D representation is plotted using projection.
 
-This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values.
+Code: [lorenz_3D3.bas](lorenz_3D3.bas)
 
 lorenz system with three 1st order differential equations:
 
@@ -86,7 +86,9 @@ Initial conditions:
     y = 1.0
     z = 0.0
 
-![lorenz_screenshot.png](lorenz_screenshot.png)
+This is a GIF screen recording of the output, the real output tends to be smoother.
+
+![lorenz_3D3.gif](lorenz_3D3.gif)
 
  ## King's Dream fractal
 
