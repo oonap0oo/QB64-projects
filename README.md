@@ -343,8 +343,14 @@ The code graphs a set of solutions to the equations of the Aizawa attractor whic
 
 ![aizawa_attractor_rnd1.png](aizawa_attractor_rnd1.png)
 ![aizawa_attractor_rnd2.png](aizawa_attractor_rnd2.png)
-![aizawa_attractor_rnd3.png](aizawa_attractor_rnd3.png)
-![aizawa_attractor_rnd4.png](aizawa_attractor_rnd4.png)
+
+## Aizawa Attractor, rotating
+
+This version displays an animated image of a rotating Aizawa Attractor.
+
+The code: [aizawa_attractor_rotate.bas](aizawa_attractor_rotate.bas)
+
+![aizawa_attractor_rotate.gif](aizawa_attractor_rotate.gif)
 
 ## Pascal's Triangle
 
