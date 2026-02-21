@@ -350,6 +350,8 @@ This version displays an animated image of a rotating Aizawa Attractor.
 
 The code: [aizawa_attractor_rotate.bas](aizawa_attractor_rotate.bas)
 
+This is a GIF screen recording of the output, the real output tends to be smoother.
+
 ![aizawa_attractor_rotate.gif](aizawa_attractor_rotate.gif)
 
 ## Pascal's Triangle
