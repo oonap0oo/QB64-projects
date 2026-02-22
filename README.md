@@ -321,6 +321,16 @@ Two examples:
 ![Rabinovich_Fabrikant1.png](Rabinovich_Fabrikant1.png)
 ![Rabinovich_Fabrikant2.png](Rabinovich_Fabrikant2.png)
 
+## Rabinovich-Fabrikant System, rotating
+
+This version rotates athe graph of a solution to the Rabinovich-Fabrikant system while cylcling the colors.
+
+The code: [Rabinovich_Fabrikant3.bas$(Rabinovich_Fabrikant3.bas)
+
+This is a GIF screen recording of the output, the real output tends to be smoother.
+
+![Rabinovich_Fabrikant3.gif](Rabinovich_Fabrikant3.gif)
+
 ## Aizawa Attractor
 This piece of code will only compile with the [QB64 Phoenix edition](https://www.qb64phoenix.com/) due to the use of the _Min() and _Max() functions. These could be replaced with suitable if..then statements to accomplish the same functionality.
 
