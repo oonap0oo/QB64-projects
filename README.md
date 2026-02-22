@@ -325,7 +325,7 @@ Two examples:
 
 This version rotates athe graph of a solution to the Rabinovich-Fabrikant system while cylcling the colors.
 
-The code: [Rabinovich_Fabrikant3.bas$(Rabinovich_Fabrikant3.bas)
+The code: [Rabinovich_Fabrikant3.bas](Rabinovich_Fabrikant3.bas)
 
 This is a GIF screen recording of the output, the real output tends to be smoother.
 
