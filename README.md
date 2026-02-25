@@ -398,4 +398,22 @@ This is a GIF screen recording of the output, the real output tends to be smooth
 <img src="Thomas_attractor4_recording.gif" width="500"></img>
 </a>
 
+## Mystify, recreating the screensaver
+
+This is a recreation of the classic Windows screensaver 'Mystify'.
+
+The code: [mystify6.bas](mystify6.bas)
+
+Various parameters can be changed in the code:
+
+    Const XMAX = 640 ' image dimensions
+    Const YMAX = 480
+    Const Npoints = 4 ' number of points in each shape, windows Mystify used 4
+    Const Nshapes = 3 ' number of different colored shapes to be created
+    Const Ntrail = 8 ' number of trails for each shape
+    Const trailsep = 10 ' seperations between trails of each shape
+    Const alphadropoff = 200 ' specifies how much fainter the last trail is drawn compared to 1st
+
+![mystify6.png](mystify6.png)
+
 
