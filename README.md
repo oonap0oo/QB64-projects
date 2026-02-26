@@ -402,7 +402,7 @@ This is a GIF screen recording of the output, the real output tends to be smooth
 
 This is a recreation of the classic Windows screensaver 'Mystify'.
 
-The code: [mystify6.bas](mystify6.bas)
+The code: [mystify7.bas](mystify7.bas)
 
 Various parameters can be changed in the code:
 
@@ -414,6 +414,6 @@ Various parameters can be changed in the code:
     Const trailsep = 10 ' seperations between trails of each shape
     Const alphadropoff = 200 ' specifies how much fainter the last trail is drawn compared to 1st
 
-![mystify6.png](mystify6.png)
+![mystify7.png](mystify7.png)
 
 
