@@ -402,12 +402,14 @@ This is a GIF screen recording of the output, the real output tends to be smooth
 
 This is a recreation of the classic Windows screensaver 'Mystify'.
 
-The code: [mystify7.bas](mystify7.bas)
+The code: [mystify9fs.bas](mystify9fs.bas)
 
 Various parameters can be changed in the code:
 
-    Const XMAX = 640 ' image dimensions
-    Const YMAX = 480
+    Const fullscreen = _FALSE 'run fullscreen if true, run in window if false
+    Const windwidth = 1024 / 1.5, windheight = 768 / 1.5 'dimensions of window, ignored if fullscreen
+    Const fps = 60 ' number of animation frames per second
+    Const stepsize = 1 ' distance in pixels each point coord. changes between frames
     Const Npoints = 4 ' number of points in each shape, windows Mystify used 4
     Const Nshapes = 3 ' number of different colored shapes to be created
     Const Ntrail = 8 ' number of trails for each shape
