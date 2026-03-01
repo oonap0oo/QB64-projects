@@ -424,7 +424,7 @@ This QB64 code experiments with loading PNG image files, modifying the colors, t
 
 The code needs a png file, optimally around 200 or 300px wide. 
 
-The provided png file 'flyers.png' can be used
+The provided png file 'flyer.png' can be used
 
 [flyer.png](flyer.png)
 
