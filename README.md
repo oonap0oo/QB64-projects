@@ -418,4 +418,14 @@ Various parameters can be changed in the code:
 
 ![mystify7.png](mystify7.png)
 
+## Flying things
 
+This QB64 code experiments with loading PNG image files, modifying the colors, transparancy and placing them on the screen with varying sizes in an animation.
+
+The code: [flyers5.bas](flyers5.bas)
+
+The images of a baloon seem to appear small in the background and grow in size as they fly nearer.
+
+A still screencapture of the animation in progress:
+
+![flyers5.png](flyers5.png)
