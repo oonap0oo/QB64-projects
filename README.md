@@ -420,7 +420,9 @@ Various parameters can be changed in the code:
 
 ## Flying things
 
-This QB64 code experiments with loading PNG image files, modifying the colors, transparancy and placing them on the screen with varying sizes in an animation.
+Made for QB64 Phoenix Edition.
+
+This code experiments with loading PNG image files, modifying the colors, transparancy and placing them on the screen with varying sizes in an animation.
 
 The code needs a png file, optimally around 200 or 300px wide. 
 
