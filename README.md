@@ -422,6 +422,12 @@ Various parameters can be changed in the code:
 
 This QB64 code experiments with loading PNG image files, modifying the colors, transparancy and placing them on the screen with varying sizes in an animation.
 
+The code needs a png file, optimally around 200 or 300px wide. 
+
+The provided png file
+    flyer.png
+can be used, placing it in the same directory as the compiled executable allows it to be found automatically.
+
 The code: [flyers5.bas](flyers5.bas)
 
 The images of a baloon seem to appear small in the background and grow in size as they fly nearer.
