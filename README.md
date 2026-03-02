@@ -422,7 +422,7 @@ Various parameters can be changed in the code:
 
 Made for QB64 Phoenix Edition.
 
-This code experiments with loading PNG image files, modifying the colors, transparancy and placing them on the screen with varying sizes in an animation.
+This code experiments with loading PNG image files, modifying the colors, transparency and placing them on the screen with varying sizes in an animation.
 
 The code needs a png file, optimally around 200 or 300px wide. 
 
@@ -434,7 +434,7 @@ Placing it in the same directory as the compiled executable allows it to be foun
 
 The code: [flyers6.bas](flyers6.bas)
 
-The images of a balloon seem to appear small in the background and grow in size as they fly nearer. When a balloon reaches full size they fade out. Balloons that have fadded out or left the screen edge are respawned and start in the background again.
+The images of a balloon seem to appear small in the background and grow in size as they fly nearer. When a balloon reaches full size they fade out. Balloons that have faded out or left the screen edge are respawned and start in the background again.
 
 A still screencapture of the animation in progress:
 
