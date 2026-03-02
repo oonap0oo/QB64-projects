@@ -428,14 +428,14 @@ The code needs a png file, optimally around 200 or 300px wide.
 
 The provided png file 'flyer.png' can be used
 
-[flyer.png](flyer.png)
+The PNG image file: [flyer.png](flyer.png)
 
-placing it in the same directory as the compiled executable allows it to be found automatically.
+Placing it in the same directory as the compiled executable allows it to be found automatically.
 
-The code: [flyers5.bas](flyers5.bas)
+The code: [flyers6.bas](flyers6.bas)
 
-The images of a baloon seem to appear small in the background and grow in size as they fly nearer.
+The images of a balloon seem to appear small in the background and grow in size as they fly nearer. When a balloon reaches full size they fade out. Balloons that have fadded out or left the screen edge are respawned and start in the background again.
 
 A still screencapture of the animation in progress:
 
-![flyers5.png](flyers5.png)
+![flyers6.png](flyers6.png)
