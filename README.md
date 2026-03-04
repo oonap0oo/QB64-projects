@@ -439,3 +439,27 @@ The images of a balloon seem to appear small in the background and grow in size 
 A still screencapture of the animation in progress:
 
 ![flyers6.png](flyers6.png)
+
+## Conway's Game of Life
+
+Made using QB64 Phoenix Edition
+
+Warning: although the title includes 'game' this is more a nerdy simulation, which has been around sinds 1970.
+
+The code: [conway3.bas](conway3.bas)
+
+There is a 2D grid of cells. The simulation starts with some of these cells being 'alive'. Over time the complete grid goes through consecutive generations. 
+As generations pass the survival of each cell follows these rules:
+1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+2. Any live cell with two or three live neighbours lives on to the next generation.
+3. Any live cell with more than three live neighbours dies, as if by overpopulation.
+4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+
+The code is made such that the 'universe' wraps around at the edges.
+
+There are a number of patterns known to exhibit consistent behaviour. "Gliders" move diagonally across the grid. A large complex pattern called 'Gosper's glider gun' continuously creates gliders and sends them on their way.
+
+In the code as an example two 'Gosper's guns' are producing gliders which interact or creating mayhem that eventually destroys the 'Gosper's guns'.
+
+![conway3.png](conway3.png)
+
