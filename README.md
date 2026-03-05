@@ -197,6 +197,20 @@ Using projection, a vanishing point is added to the image.
 
 ![3dsurfpr5_screenshot.png](3dsurfpr5_screenshot.png)
 
+## 3D surface graph, animated
+
+Animation of a 3D surface graph y varying a paramter of the graphed function.
+
+The code: [3dsurfani2.bas](3dsurfani2.bas)
+
+A 3D surface graph is animated using the alpha parameter which ramps from 0 to 2.pi 
+    r=√(x²+y²)
+    z(x,y)=sin(r-alpha)*exp(-r/12)
+ 
+ A still image from the animation:
+
+![3dsurfani2.png](3dsurfani2.png)
+
 ## Clock with 7 segment display
 
 Code: [7segment_clock2.bas](7segment_clock2.bas)
