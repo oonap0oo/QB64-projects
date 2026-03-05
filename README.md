@@ -204,6 +204,7 @@ Animation of a 3D surface graph y varying a paramter of the graphed function.
 The code: [3dsurfani2.bas](3dsurfani2.bas)
 
 A 3D surface graph is animated using the alpha parameter which ramps from 0 to 2.pi 
+
     r=√(x²+y²)
     z(x,y)=sin(r-alpha)*exp(-r/12)
  
