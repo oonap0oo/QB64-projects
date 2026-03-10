@@ -478,3 +478,10 @@ In the code as an example two 'Gosper's guns' are producing gliders which intera
 
 ![conway3.png](conway3.png)
 
+## Recursive Tree on a windy day
+
+This code uses recursive function calls to draw a tree. The tree is animated to look like it is influenced by the wind.
+
+The code: [recursive_tree3.bas](recursive_tree3.bas)
+
+![recursive_tree3b.gif](recursive_tree3b.gif)
