@@ -485,3 +485,11 @@ This code uses recursive function calls to draw a tree. The tree is animated to 
 The code: [recursive_tree3.bas](recursive_tree3.bas)
 
 ![recursive_tree3b.gif](recursive_tree3b.gif)
+
+## 3D Lissajou curves, animated
+
+A 3D version of lissajou curves. The curve is rotated around the vertical Z axis. The code loops through various combinations of frequencies for the x,y and z components. Highlighted markers run around the curve for extra effect.
+
+The code: [3dlissajou2.bas](3dlissajou2.bas)
+
+![3dlissajou2.png](3dlissajou2.png)
