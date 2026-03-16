@@ -19,9 +19,9 @@ This basic code generates a plot of the Julia Fractal.
 
 ## Julia legacy version
 
-A legacy version for old times' sake. Using screen 12 from the legacy QBASIC which has 640x480 resolution and a color palette with 16 attributes. The code also uses line numbers refering back to even older basic versions.
+A legacy version for old times' sake. Using screen 12 from the legacy QBASIC which has 640x480 resolution and a color palette with 16 attributes. The code also uses line numbers referring back to even older basic versions.
 
-This updated version replaces x^2 operators with simple multiplcation x*x for a big speed increase. This was suggested by Simon Harris in Facebook groep 'BASIC Programming Language'. 
+This updated version replaces x^2 operators with simple multiplication x*x for a big speed increase. This was suggested by Simon Harris in Facebook groep 'BASIC Programming Language'. 
 
 The code: [julia_16_2a.bas](julia_16_2a.bas)
 
@@ -492,4 +492,4 @@ A 3D version of lissajou curves. The curve is rotated around the vertical Z axis
 
 The code: [3dlissajou2.bas](3dlissajou2.bas)
 
-![3dlissajou2.png](3dlissajou2.png)
+![3dlissajou2.gif](3dlissajou2.gif)
