@@ -33,6 +33,12 @@ Code: [mandelbrot.bas](mandelbrot.bas)
 
 Similar to the Julia fractal, however initial value of z is now a constant and c varies with coordinates in the image.
 
+    The colors depend how fast the iterative formula diverges 
+    z² + c  --> z
+    where z and c are complex values
+    value of c varies with coordinates in the image
+    z is a constant
+
 ![mandelbrot_screenshot1.png](mandelbrot_screenshot1.png)
 ![mandelbrot_screenshot2.png](mandelbrot_screenshot2.png)
 ![mandelbrot_screenshot3.png](mandelbrot_screenshot3.png)
@@ -60,11 +66,21 @@ Code: [logistic.bas](logistic.bas)
 
 A bifurcation diagram of the logistic map is plotted.
 
+The following formula is iterated. The parameter a is varied along the x axis.
+    
+    z = a * z * (1 - z)
+
+[https://en.wikipedia.org/wiki/Logistic_map](https://en.wikipedia.org/wiki/Logistic_map)
+
+[https://en.wikipedia.org/wiki/Bifurcation_diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram)
+
 ![logistic_screenshot.png](logistic_screenshot.png)
 
 ## Lorenz System
 
-This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values. Then it uses rotation matrices to rotate the 3D values around the z axis. A 2D representation is plotted using projection.
+This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values. 
+
+Then it uses rotation matrices to rotate the 3D values around the z axis. A 2D representation is plotted using projection.
 
 Code: [lorenz_3D3.bas](lorenz_3D3.bas)
 
