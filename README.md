@@ -509,3 +509,15 @@ A 3D version of lissajou curves. The curve is rotated around the vertical Z axis
 The code: [3dlissajou2.bas](3dlissajou2.bas)
 
 ![3dlissajou2.gif](3dlissajou2.gif)
+
+## Munching Squares, on a sphere
+
+Based on and inspired by [a facebook post by Bobby Brightling, titled "Got the Munchies?" Challenge](https://www.facebook.com/groups/2057165187928233/permalink/4249320262046037/)
+
+The pattern created by the "Munching Squares" algoritme is projected on a sphere.
+
+The code: [Munchingsquaressphere.bas](Munchingsquaressphere.bas)
+
+A still image, the 
+![Munchingsquaressphere.png](Munchingsquaressphere.png)
+
