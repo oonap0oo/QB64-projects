@@ -49,6 +49,8 @@ Interactively exploring a Mandelbrot Fractal using the mouse and some key stroke
 
 The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
 
+Video on YouTube: [https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx](https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx)
+
 ![mandelbrotviewer.png](mandelbrotviewer.png)
 
 Some images saved to PNG using this code:
