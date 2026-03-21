@@ -1,6 +1,9 @@
 # QB64-projects
 coding in basic language using [QB64](https://qb64.com/) or [QB64 PE](https://www.qb64phoenix.com/)
 
+YouTube playlist containing videos show8ng thevanimated output of some of these programs:
+[https://youtube.com/playlist?list=PLUJ9fmbOJavtjgHIzrD1tYt9rkbeiRQ1U&si=0oNLdynusmFcJGMx](https://youtube.com/playlist?list=PLUJ9fmbOJavtjgHIzrD1tYt9rkbeiRQ1U&si=0oNLdynusmFcJGMx)
+
 ## Julia fractal
 
 Code: [julia4.bas](julia4.bas)
