@@ -43,6 +43,23 @@ Similar to the Julia fractal, however initial value of z is now a constant and c
 ![mandelbrot_screenshot2.png](mandelbrot_screenshot2.png)
 ![mandelbrot_screenshot3.png](mandelbrot_screenshot3.png)
 
+## Mandelbrot viewer
+
+Interactively exploring a Mandelbrot Fractal using the mouse and some key strokes.
+
+The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
+
+![mandelbrotviewer.png](mandelbrotviewer.png)
+
+Some images saved to PNG using this code:
+
+![mandelbrot37.png](mandelbrot37.png)
+![mandelbrot38.png](mandelbrot38.png)
+![mandelbrot40.png](mandelbrot40.png)
+![mandelbrot41.png](mandelbrot41.png)
+![mandelbrot42.png](mandelbrot42.png)
+![mandelbrot44.png](mandelbrot44.png)
+
 ## Sierpinski triangle
 
 Code: [sierpinski3.bas](sierpinski3.bas)
