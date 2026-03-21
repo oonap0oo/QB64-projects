@@ -40,8 +40,6 @@ Similar to the Julia fractal, however initial value of z is now a constant and c
     z is a constant
 
 ![mandelbrot_screenshot1.png](mandelbrot_screenshot1.png)
-![mandelbrot_screenshot2.png](mandelbrot_screenshot2.png)
-![mandelbrot_screenshot3.png](mandelbrot_screenshot3.png)
 
 ## Mandelbrot viewer
 
@@ -49,9 +47,11 @@ Interactively exploring a Mandelbrot Fractal using the mouse and some key stroke
 
 The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
 
-Video on YouTube: [https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx](https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx)
+The help page:
 
 ![mandelbrotviewer.png](mandelbrotviewer.png)
+
+Video on YouTube: [https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx](https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx)
 
 Some images saved to PNG using this code:
 
