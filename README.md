@@ -11,9 +11,12 @@ Interactively exploring a Mandelbrot Fractal using the mouse and some key stroke
 The color of each pixel depends on how fast the following iterative formula diverges:
 
     z² + c  --> z
-    where z and c are complex values
-    value c varies with coordinates in the image, it remains constant through the iterations
-    the inital value of z is zero
+
+where z and c are complex values
+
+value c varies with coordinates in the image, it remains constant through the iterations
+
+the inital value of z is zero
 
 The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
 
