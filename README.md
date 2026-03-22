@@ -470,6 +470,8 @@ Various parameters can be changed in the code:
     Const trailsep = 10 ' seperations between trails of each shape
     Const alphadropoff = 200 ' specifies how much fainter the last trail is drawn compared to 1st
 
+[Mystify, recreation on Youtube](https://youtu.be/zZILHojPmB0?si=FLY1LQBXDjzhhakh)
+
 ![mystify7.png](mystify7.png)
 
 ## Flying things
