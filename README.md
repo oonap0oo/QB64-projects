@@ -4,11 +4,39 @@ coding in basic language using [QB64](https://qb64.com/) or [QB64 PE](https://ww
 YouTube playlist containing videos showing the animated output of some of these programs:
 [QB64 coding on YouTube](https://youtube.com/playlist?list=PLUJ9fmbOJavtjgHIzrD1tYt9rkbeiRQ1U&si=0oNLdynusmFcJGMx)
 
+## Mandelbrot viewer
+
+Interactively exploring a Mandelbrot Fractal using the mouse and some key strokes.
+
+The colors of each pixel depends on how fast the following iterative formula diverges:
+
+    z² + c  --> z
+    where z and c are complex values
+    value c varies with coordinates in the image, it remains constant through the iterations
+    the inital value of z is zero
+
+The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
+
+[Video on YouTube of the viewer in use](https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx)
+
+Some images saved to PNG using the viewer:
+
+![mandelbrot37.png](mandelbrot37.png)
+![mandelbrot38.png](mandelbrot38.png)
+![mandelbrot40.png](mandelbrot40.png)
+![mandelbrot41.png](mandelbrot41.png)
+![mandelbrot42.png](mandelbrot42.png)
+![mandelbrot44.png](mandelbrot44.png)
+
+The help page of the Mandelbrot viewer:
+
+![mandelbrotviewer.png](mandelbrotviewer.png)
+
 ## Julia fractal
 
 Code: [julia4.bas](julia4.bas)
 
-This basic code generates a plot of the Julia Fractal.
+This code generates a plot of the Julia Fractal.
 
     The colors depend how fast the iterative formula diverges 
     z² + c  --> z
@@ -29,41 +57,6 @@ This updated version replaces x^2 operators with simple multiplication x*x for a
 The code: [julia_16_2a.bas](julia_16_2a.bas)
 
 ![julia_16_screenshot.png](julia_16_screenshot.png)
-
-## Mandelbrot fractal
-
-Code: [mandelbrot.bas](mandelbrot.bas)
-
-Similar to the Julia fractal, however initial value of z is now a constant and c varies with coordinates in the image.
-
-    The colors depend how fast the iterative formula diverges 
-    z² + c  --> z
-    where z and c are complex values
-    value of c varies with coordinates in the image
-    z is a constant
-
-![mandelbrot_screenshot1.png](mandelbrot_screenshot1.png)
-
-## Mandelbrot viewer
-
-Interactively exploring a Mandelbrot Fractal using the mouse and some key strokes.
-
-The code: [mandelbrotviewer.bas](mandelbrotviewer.bas)
-
-The help page:
-
-![mandelbrotviewer.png](mandelbrotviewer.png)
-
-Video on YouTube: [https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx](https://youtu.be/CQO6Mc06hMc?si=YF8Prz2wZgT4ItQx)
-
-Some images saved to PNG using this code:
-
-![mandelbrot37.png](mandelbrot37.png)
-![mandelbrot38.png](mandelbrot38.png)
-![mandelbrot40.png](mandelbrot40.png)
-![mandelbrot41.png](mandelbrot41.png)
-![mandelbrot42.png](mandelbrot42.png)
-![mandelbrot44.png](mandelbrot44.png)
 
 ## Sierpinski triangle
 
@@ -98,7 +91,7 @@ The following formula is iterated. The parameter a is varied along the x axis.
 
 ![logistic_screenshot.png](logistic_screenshot.png)
 
-## Lorenz System
+## Lorenz System, animated
 
 This script draws a sample solution to the Lorenz System. it uses a simple Euler method to calculate the values. 
 
@@ -127,6 +120,8 @@ Initial conditions:
 This is a GIF screen recording of the output, the real output tends to be smoother.
 
 ![lorenz_3D3.gif](lorenz_3D3.gif)
+
+[The animation on Youtube](https://youtu.be/S1Hla9CXvzo?si=FYQg696EdDUothdo)
 
  ## King's Dream fractal
 
@@ -245,6 +240,8 @@ A 3D surface graph is animated using the alpha parameter which ramps from 0 to 2
 
     r=√(x²+y²)
     z(x,y)=sin(r-alpha)*exp(-r/12)
+
+[The animated surface graph on Youtube](https://youtu.be/cNsj-XdYu58?si=UacpdfkazK9gZq_s)
  
  A still image from the animation:
 
@@ -413,6 +410,8 @@ This version displays an animated image of a rotating Aizawa Attractor.
 
 The code: [aizawa_attractor_rotate.bas](aizawa_attractor_rotate.bas)
 
+[The rotating attractor on Youtube](https://youtube.com/shorts/DpVNplwm2o4?si=AhFmQn25cqFH2TVb)
+
 This is a GIF screen recording of the output, the real output tends to be smoother.
 
 ![aizawa_attractor_rotate.gif](aizawa_attractor_rotate.gif)
@@ -444,6 +443,8 @@ The Thomas attractor is defined by the following coupled differential equations:
     x0 = 0.2 
     y0 = 0.5
     z0 = 0.3
+
+[The rotating Thomas attractor on Youtube](https://youtube.com/shorts/axjW0nWCnqQ?si=G2bQQEcgiyZoXmWd)
 
 This is a GIF screen recording of the output, the real output tends to be smoother.
 
@@ -489,6 +490,8 @@ The code: [flyers6.bas](flyers6.bas)
 
 The images of a balloon seem to appear small in the background and grow in size as they fly nearer. When a balloon reaches full size they fade out. Balloons that have faded out or left the screen edge are respawned and start in the background again.
 
+[Flying Things on Youtube](https://youtu.be/h1548uLpczg?si=n1m7QkDR7ynE4EXL)
+
 A still screencapture of the animation in progress:
 
 ![flyers6.png](flyers6.png)
@@ -522,6 +525,8 @@ This code uses recursive function calls to draw a tree. The tree is animated to 
 
 The code: [recursive_tree3.bas](recursive_tree3.bas)
 
+[Tree on a windy day on Youtube](https://youtu.be/G6tNXaEK774?si=mOvSR3f-5bDTuIWK)
+
 ![recursive_tree3b.gif](recursive_tree3b.gif)
 
 ## 3D Lissajou curves, animated
@@ -529,6 +534,8 @@ The code: [recursive_tree3.bas](recursive_tree3.bas)
 A 3D version of lissajou curves. The curve is rotated around the vertical Z axis. The code loops through various combinations of frequencies for the x,y and z components. Highlighted markers run around the curve for extra effect.
 
 The code: [3dlissajou2.bas](3dlissajou2.bas)
+
+[Animated 3D Lissajou curves on Youtube](https://youtu.be/IayqGjKjj9E?si=439ZmEqYEyrkrWaD)
 
 ![3dlissajou2.gif](3dlissajou2.gif)
 
