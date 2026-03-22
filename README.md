@@ -8,7 +8,7 @@ YouTube playlist containing videos showing the animated output of some of these 
 
 Interactively exploring a Mandelbrot Fractal using the mouse and some key strokes.
 
-The colors of each pixel depends on how fast the following iterative formula diverges:
+The color of each pixel depends on how fast the following iterative formula diverges:
 
     z² + c  --> z
     where z and c are complex values
