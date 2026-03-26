@@ -555,13 +555,13 @@ The code: [Munchingsquaressphere.bas](Munchingsquaressphere.bas)
 A still image, the 
 ![Munchingsquaressphere.png](Munchingsquaressphere.png)
 
-## Animation based on Logitic Map
+## Animation based on Logistic Map
 
 Taking two instances of the equation of the Logistic map
 
     zn+1 = a.zn.(1 - zn) 
     
-And using it with different parameter values to determine the distance from origin and angle of points as in a polar coordinate system.
+And using them with different parameter values to determine the distance from origin and angle of points as in a polar coordinate system.
 
 The animation cycles the values for a upwards and downwards between a min and max value. It also rotates the image continuously.
 
