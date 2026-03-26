@@ -567,6 +567,8 @@ The animation cycles the values for a upwards and downwards between a min and ma
 
 The code: [logisticalter3.bas](logisticalter3.bas)
 
-[The animation on Youtube](https://youtube.com/shorts/LeVoe4eLFKQ?si=ZHosa_c_L-BPGSNp)
+[View the animation on Youtube](https://youtube.com/shorts/LeVoe4eLFKQ?si=ZHosa_c_L-BPGSNp)
+
+A still image of the animation:
 
 ![logisticalter3.png](logisticalter3.png)
