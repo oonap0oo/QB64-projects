@@ -1,4 +1,4 @@
-' Animation based on Logistoc Map
+' Animation based on Logistic Map
 ' https://en.wikipedia.org/wiki/Logistic_map
 
 Option _Explicit
