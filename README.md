@@ -589,6 +589,8 @@ While the figure changes it also rotates around the vertical axis.
 
 The code: [logisticalter5b.bas](logisticalter5b.bas)
 
+[Screen recording of animation on Youtube](https://youtu.be/bXdojQVntfo?si=fVQNLJqwjxVFUGOs)
+
 Some still images from the animation
 
 ![logisticalter5b1.png](logisticalter5b1.png)
