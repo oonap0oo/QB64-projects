@@ -572,3 +572,24 @@ The code: [logisticalter3.bas](logisticalter3.bas)
 A still image of the animation:
 
 ![logisticalter3.png](logisticalter3.png)
+
+## 3D Animation based on Logistic Map
+
+Similar to the previous 2D version but an extra instance of the Logistic Map equation allows for a 3D figure.
+
+The figure is constructed using spherical coordinates
+The Logistic Map equations are used to supply the values for the spherical coordinates r, angle1, angle2
+
+    x=r.sin(angle2).cos(angle1)
+    y=r.sin(angle2).sin(angle1)
+    z=r.cos(angle2)
+
+While the figure changes it also rotates around the vertical axis
+
+The code: [logisticalter5b.bas](logisticalter5b.bas)
+
+Some still images from the animation
+
+![logisticalter5b1.png](logisticalter5b1.png)
+![logisticalter5b2.png](logisticalter5b2.png)
+![logisticalter5b3.png](logisticalter5b3.png)
