@@ -577,14 +577,15 @@ A still image of the animation:
 
 Similar to the previous 2D version but an extra instance of the Logistic Map equation allows for a 3D figure.
 
-The figure is constructed using spherical coordinates
-The Logistic Map equations are used to supply the values for the spherical coordinates r, angle1, angle2
+The figure is constructed using spherical coordinates.
+
+The Logistic Map equations are used to supply the values for the spherical coordinates r, angle1, angle2:
 
     x=r.sin(angle2).cos(angle1)
     y=r.sin(angle2).sin(angle1)
     z=r.cos(angle2)
 
-While the figure changes it also rotates around the vertical axis
+While the figure changes it also rotates around the vertical axis.
 
 The code: [logisticalter5b.bas](logisticalter5b.bas)
 
