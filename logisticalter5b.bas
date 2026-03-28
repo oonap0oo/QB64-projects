@@ -72,7 +72,7 @@ Do
         ' --- SECTOR 4
         drawpoint y, -x, z, col
     Next counter
-    Locate 1, 1: Print frame
+    'Locate 1, 1: Print frame
     _Display ' any graphics command only becomes visible here, smoother animation
     'frame ramps up and down between 0 and Nframes
     If frame = Nframes Then
