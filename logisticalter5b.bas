@@ -1,4 +1,4 @@
-' Animation based on Logistic Map
+' Animation based on Logistic Map K Moerman 2026
 ' https://en.wikipedia.org/wiki/Logistic_map
 
 Option _Explicit
