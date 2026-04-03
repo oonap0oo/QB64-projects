@@ -1,5 +1,5 @@
-' mandelbrot fractal viewer
-' -------------------------
+' mandelbrot fractal viewer K Moerman 2026
+' -----------------------------------------
 '
 ' z_new = z^2 + c       z and c are complex numbers
 ' z = zr + zi*j         zr and zc remain constant
