@@ -596,3 +596,14 @@ Some still images from the animation
 ![logisticalter5b1.png](logisticalter5b1.png)
 ![logisticalter5b2.png](logisticalter5b2.png)
 ![logisticalter5b3.png](logisticalter5b3.png)
+
+## Bubble Universe
+
+Bubble Universe, this algoritm found on many places on the web in various programming languages. It is hard to pinpoit where it originally came from.
+
+As a reference a [version was used, written in Sinclair Basic on a PC, by BigEd](https://stardot.org.uk/forums/viewtopic.php?t=25833)
+
+The code: [bubble2.bas](bubble2.bas)
+
+A still image from the animation:
+![bubble2.png](bubble2.png)
