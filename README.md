@@ -599,7 +599,7 @@ Some still images from the animation
 
 ## Bubble Universe
 
-Bubble Universe, this algoritm found on many places on the web in various programming languages. It is hard to pinpoit where it originally came from.
+Bubble Universe, this algoritm found on many places on the web in various programming languages. It is hard to pinpoint where it originally came from.
 
 As a reference a [version was used, written in Sinclair Basic on a PC, by BigEd](https://stardot.org.uk/forums/viewtopic.php?t=25833)
 
