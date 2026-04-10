@@ -611,7 +611,7 @@ A still image from the animation:
 
 ## Arneodo Attractor on simulated analog oscilloscope
 
-Inspired by [https://www.facebook.com/groups/theanalogthing/permalink/1193359812886806/](Facebook post) and [application note](https://analogparadigm.com/downloads/alpaca_60.pdf) by Bernd Ulmann who used an analog computer and analog oscilloscope to visualise a solution to the Arneodo attractor.
+Inspired by [Facebook post](https://www.facebook.com/groups/theanalogthing/permalink/1193359812886806/) and [application note](https://analogparadigm.com/downloads/alpaca_60.pdf) by Bernd Ulmann who used an analog computer and analog oscilloscope to visualise a solution to the Arneodo attractor.
 
 The code: [arneodo3euler.bas](arneodo3euler.bas)
 
