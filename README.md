@@ -609,3 +609,24 @@ A still image from the animation:
 ![bubble2.png](bubble2.png)
 
 
+## Arneodo Attractor on simulated analog oscilloscope
+
+Inspired by Facebook post by Bernd Ulmann who used an analog computer and analog oscilloscope to visualise a solution to the Arneodo attractor.
+
+The code: [arneodo3euler.bas](arneodo3euler.bas)
+
+Differential equations:
+
+    dx/dt = y
+    dy/dt = z
+    dz/dt = a * x - c * x^3 - b * y - z
+    
+The program uses Euler method to calculate real time a solution to the 3 differential equations, the value Z is plotted as function of x.
+
+Points are plotted with a high transparency (low alpha), pixels plotted more then one time become brighter. After a number of points an overlay with black transparent background is added which decreases the brightness of all points. The overlay also contains all grid lines and text, it is drawn 1 time before animation starts.
+
+This cycle is repeated continuously. This gives the illusion of a crt screen with some persistence.
+
+A still image from the simulation:
+
+![arneodo3euler.png](arneodo3euler.png)
