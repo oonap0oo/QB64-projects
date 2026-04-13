@@ -625,7 +625,7 @@ Differential equations:
     
 The program uses Euler method to calculate real time a solution to the 3 differential equations, the value Z is plotted as function of x.
 
-Points are plotted with a high transparency (low alpha), pixels plotted more then one time become brighter. After a number of points an overlay with black transparent background is added which decreases the brightness of all points. The overlay also contains all grid lines and text, it is drawn 1 time before animation starts.
+Points are plotted with a high transparency (low alpha), pixels plotted more then one time become brighter. After a number of points an overlay with black transparent background is added which decreases the brightness of all points. The overlay also contains all grid lines and text, it is drawn 1 time before animation starts and is kept as an image in memory.
 
 This cycle is repeated continuously. This gives the illusion of a crt screen with some persistence.
 
