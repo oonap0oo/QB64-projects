@@ -634,3 +634,22 @@ This cycle is repeated continuously. This gives the illusion of a crt screen wit
 A still image from the simulation:
 
 ![arneodo3euler.png](arneodo3euler.png)
+
+## Animated lines
+
+Based on a [program posted by Eric Schraf in FB group 'BASIC Programming Language'](https://www.facebook.com/share/p/1Ef4RtrEK4/)
+
+This original version generated a static image.This version animates the lines, it makes use of some newer QB64 functions such as _Hypot() and _Atan2() reducing code, it also uses the window() function for coordinate mapping eliminating
+pixel coordinate calculations in basic code.
+
+The code: [linesani.bas](linesani.bas)
+
+A number of lines have starting points randomly distributed in a square, each line has a set number of segments which are drawn at angle (angle). Each new segment is drawn at angle defined by the angle between current end point (x,y) and x-axis, increased by angle (heading) and a sine component which gives visual effect of concentric rings at some moments in the animation.
+
+The value of (heading) ramps up periodically which animates the output
+The "Randomize using x" statement resets the sequence of pseudo random numbers, Rnd will yield same sequence each iteration, this avoids having to store the starting point coordinates in arrays for redrawing each frame.
+
+A still image of the animated output:
+
+![linesani.png](linesani.png)
+
