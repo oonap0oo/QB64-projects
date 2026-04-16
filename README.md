@@ -664,6 +664,6 @@ This version animates the galaxy by making it rotate. It uses a simpified algori
 
 A still image of the animated output:
 
-[galaxyani.png](galaxyani.png)
+![galaxyani.png](galaxyani.png)
 
 
