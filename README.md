@@ -660,7 +660,7 @@ Rotating Galaxy based on code shown by Eric Schraf in [a post in the FB group "B
 
 The code [galaxyani.bas](galaxyani.bas)
 
-This version animates the galaxy by making it rotate. It uses a simpified algoritm to generate the galaxy image. The statement "Randomize Using 1" resets the pseudorandom sequence and makes the Rnd function yield the same sequence of numbers each iteration, which is used to generate the same points but in rotated images for each frame of the animation.
+This version animates the galaxy by making it rotate. It uses a simplified algorithm to generate the galaxy image. The statement "Randomize Using 1" resets the pseudorandom sequence and makes the Rnd function yield the same sequence of numbers each iteration, which is used to generate the same points but in rotated images for each frame of the animation. It uses the point() function to sample pixels for their current colors.
 
 A still image of the animated output:
 
