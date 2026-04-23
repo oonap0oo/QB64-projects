@@ -675,7 +675,7 @@ The sphere is animated, it rotates around two axis.
 It uses a fixed image as sphere surface, generated once and stored in memory.
 Each frame this background image is copied to display and lines are redrawn for each new rotation position.
 
-The code: [sphere5](sphere5)
+The code: [sphere5.bas](sphere5.bas)
 
 A still image from the animation:
 
