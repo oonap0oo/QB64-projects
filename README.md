@@ -666,4 +666,18 @@ A still image of the animated output:
 
 ![galaxyani.png](galaxyani.png)
 
+## Rotating sphere with hidden line removal
+
+3D Sphere with Back-Face Culling for hidden line removal.
+
+The sphere is animated, it rotates around two axis.
+
+It uses a fixed image as sphere surface, generated once and stored in memory.
+Each frame this background image is copied to display and lines are redrawn for each new rotation position.
+
+The code: [sphere5](sphere5)
+
+A still image from the animation:
+
+![sphere5.png](sphere5.png)
 
