@@ -677,6 +677,9 @@ Each frame this background image is copied to display and lines are redrawn for 
 
 The code: [sphere5.bas](sphere5.bas)
 
+[View the animation on Youtube: ](https://youtube.com/shorts/2Mce8Ji2Ai0?is=NlXx8Zj_v-VTUrAr)
+
+
 A still image from the animation:
 
 ![sphere5.png](sphere5.png)
