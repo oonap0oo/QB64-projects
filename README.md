@@ -686,8 +686,7 @@ A still image from the animation:
 
 ## Animated Fractal
 
-Based on [code posted by Eric Schraf titled 'Fractal' in the FB group 'BASIC Programming Language"]
-(https://www.facebook.com/groups/2057165187928233/permalink/3972382923073107/)
+Based on [code posted by Eric Schraf titled 'Fractal' in the FB group 'BASIC Programming Language"](https://www.facebook.com/groups/2057165187928233/permalink/3972382923073107/)
 
 The program iterates the following:
 
