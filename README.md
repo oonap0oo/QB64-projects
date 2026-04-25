@@ -684,3 +684,30 @@ A still image from the animation:
 
 ![sphere5.png](sphere5.png)
 
+## Animated Fractal
+
+Based on [code posted by Eric Schraf titled 'Fractal' in the FB group 'BASIC Programming Language"]
+(https://www.facebook.com/groups/2057165187928233/permalink/3972382923073107/)
+
+The program iterates the following:
+
+    z_new = z^2 + c       z and c are complex numbers
+    z = zr + zi*j         zr and zc depend on coordinates
+    c = cr + ci*j         cr and ci remain constant
+
+real and imaginary parts:
+
+    re(z_new) = zre^2 - zim^2 + cre
+    im(z_new) = 2*zre*zim + cim
+
+Pixels are colored if the modulus of z approaches variable t within +-dmin.
+
+The closer to t, the brighter the pixel is drawn.
+
+This version animates the fractal by cycling values of t, dmin and zoom factor
+
+The code [fractal3.bas](fractal3.bas)
+
+A still image from the animation:
+
+![fractal3.png](fractal3.png)
