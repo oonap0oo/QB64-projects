@@ -610,7 +610,7 @@ The code: [bubble2.bas](bubble2.bas)
 A still image from the animation:
 ![bubble2.png](bubble2.png)
 
-## Bubble Universe, animated
+## Morphing bubble Universe
 
 A version of the Bubble Universe code in which the universe morphs between two different configurations as time goes by. It briefly takes on a square outline in the proces.
 
