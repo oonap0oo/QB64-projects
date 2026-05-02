@@ -722,3 +722,17 @@ The code [fractal3.bas](fractal3.bas)
 A still image from the animation:
 
 ![fractal3.png](fractal3.png)
+
+## Minsky algorithm art 
+
+Images are created using a variant of the Minsky integer circle algorithm.
+
+Using information from article ['The Integer Circle Algorithm'](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/)
+
+The code: [minskyart4.bas](minskyart4.bas)
+
+![minskyart111.png](minskyart111.png)
+![minskyart11_8.png](minskyart11_8.png)
+![minskyart11_9.png](minskyart11_9.png)
+![minskyart71.png](minskyart71.png)
+![minskyart91.png](minskyart91.png)
