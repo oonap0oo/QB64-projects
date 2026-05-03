@@ -742,6 +742,9 @@ Second parameter p is looped through values automatically, the user can save an 
 
 The code: [minskyart5.bas](minskyart5.bas)
 
+Watch a [compilation of images on Youtube](https://youtu.be/0OQ7rMC-xx8)
+
+Some examples:
 ![minskyart_p11d_5.png](minskyart_p11d_5.png)
 ![minskyart_p12d_5.png](minskyart_p12d_5.png)
 ![minskyart_p8d1.png](minskyart_p8d1.png)
