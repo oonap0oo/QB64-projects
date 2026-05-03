@@ -729,10 +729,10 @@ Images are created using a variant of the Minsky integer circle algorithm.
 
 Using information from article ['The Integer Circle Algorithm'](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/)
 
-The code: [minskyart4.bas](minskyart4.bas)
+The code: [minskyart5.bas](minskyart5.bas)
 
-![minskyart111.png](minskyart111.png)
-![minskyart11_8.png](minskyart11_8.png)
-![minskyart11_9.png](minskyart11_9.png)
-![minskyart71.png](minskyart71.png)
-![minskyart91.png](minskyart91.png)
+![minskyart_p11d_5.png](minskyart_p11d_5.png)
+![minskyart_p12d_5.png](minskyart_p12d_5.png)
+![minskyart_p8d1.png](minskyart_p8d1.png)
+![minskyart_p8d_8.png](minskyart_p8d_8.png)
+![minskyart_p9_5d1_2.png](minskyart_p9_5d1_2.png)
