@@ -727,7 +727,18 @@ A still image from the animation:
 
 Images are created using a variant of the Minsky integer circle algorithm.
 
+The color of each pixel depends on the number of iterations it took to loop back to that pixel x,y coordinate.
+If the iteration loop reaches max interations before the initial x,y pair is reached, a choosen color is used in stead.
+
+By varying two parameters, different images are created.
+
 Using information from article ['The Integer Circle Algorithm'](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/)
+
+This version uses a 3 step algorithm to remove skewing.
+
+The program asks for a value of parameter d.
+
+Second parameter p is looped through values automatically, the user can save an image to PNG file by hitting key "s"
 
 The code: [minskyart5.bas](minskyart5.bas)
 
