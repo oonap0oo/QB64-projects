@@ -750,3 +750,27 @@ Some examples:
 ![minskyart_p8d1.png](minskyart_p8d1.png)
 ![minskyart_p8d_8.png](minskyart_p8d_8.png)
 ![minskyart_p9_5d1_2.png](minskyart_p9_5d1_2.png)
+
+## Super Toroid
+
+This program uses information from [FB post"Super Toroid" by Mathswithmuza](https://www.facebook.com/share/r/1CrtP9rFBe/)
+
+    n is even pos. integer greater then 2
+    t is positive integer
+
+    R = [cos(v)^n + sin(v)^n] ^ (-1/n)
+    x = [4 + R * cos(t * u + v)] * cos(u)
+    y = [4 + R * cos(t * u + v)] * sin(u)
+    z = R * sin(t*u + v)
+
+    O =< u =< 2*PI
+    O =< v =< 2*PI
+
+The program visualises the figure as a 3D line curve iso. a 3D surface. It adds a animated rotation of figure around z axis.
+
+The code: [storoidslani2.bas](storoidslani2.bas)
+
+Still image of animation:
+![storoidslani2.png](storoidslani2.png)
+
+
