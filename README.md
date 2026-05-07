@@ -662,6 +662,8 @@ The value of (heading) ramps up periodically which animates the output.
 
 The "Randomize using x" statement resets the sequence of pseudo random numbers, the function Rnd will yield the same sequence each iteration, this avoids having to store the starting point coordinates in arrays for redrawing each frame.
 
+[View the animation on Youtube](https://youtu.be/Z1_m6Cqf1HU?is=jPhaX-FmQ1PMbJcB)
+
 A still image of the animated output:
 
 ![linesani.png](linesani.png)
