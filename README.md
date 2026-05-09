@@ -380,6 +380,8 @@ This version rotates athe graph of a solution to the Rabinovich-Fabrikant system
 
 The code: [Rabinovich_Fabrikant3.bas](Rabinovich_Fabrikant3.bas)
 
+[View the animation on Youtube](https://youtu.be/_nRXwx_9biI?is=bdWWUPfrbAbceHpP)
+
 This is a GIF screen recording of the output, the real output tends to be smoother.
 
 ![Rabinovich_Fabrikant3.gif](Rabinovich_Fabrikant3.gif)
