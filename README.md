@@ -779,9 +779,11 @@ Still image of animation:
 
 ## Interference
 
-A visual effect based on the general idea of two point wave sources with an interference pattern. The point sources travel in circular paths chinging their distance from each other continuously.
+A visual effect based on the general idea of two point wave sources with an interference pattern. The point sources travel in circular paths changing their distance from each other continuously.
 
 The code: [interference2.bas](interference2.bas)
+
+[View the animation o Youtube](https://youtu.be/3UUQvVv8cbk)
 
 a still image from the animation:
 
