@@ -777,4 +777,13 @@ The code: [storoidslani2.bas](storoidslani2.bas)
 Still image of animation:
 ![storoidslani2.png](storoidslani2.png)
 
+## Interference
+
+A visual effect based on the general idea of two point wave sources with an interference pattern. The point sources travel in circular paths chinging their distance from each other continuously.
+
+The code: [interference2.bas](interference2.bas)
+
+a still image from the animation:
+
+![interference2.png](interference2.png)
 
