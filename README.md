@@ -789,3 +789,34 @@ a still image from the animation:
 
 ![interference2.png](interference2.png)
 
+## x+sin(x) attractor
+
+This is based on a [FB post by Johnny Ray Tellefson and explanations in the comments by Jonathan David Gilbert in the FB group "BASIC Programming Language":]( https://www.facebook.com/groups/2057165187928233/permalink/4308985552746174/)
+
+In the post x = x + sin(x) was observed to converge to odd multiples of pi depending on initial value. A code example was included. 
+
+In the comments it was explained how this is an example of an attractor.
+
+I had the idea to make a 2D visualisation of that adding a second variable:
+
+    x=x+sin(x)
+    y=y+sin(y)
+
+Starting with random initial values for x and y, lines are drawn after a series of iterations. The lines can indeed be seen to approach points defined by odd multiples of pi. 
+
+![sinattractor.png](sinattractor.png)
+
+Then I tried this modification, swapping x and y in the sine functions:
+
+    x=x+sin(y)
+    y=y+sin(x)
+    
+The result shows x, y values cycling around some defined points but never approaching them. Kind of interesting image.
+
+![sinattractorspecial.png](sinattractorspecial.png)
+
+The two pieces of code:
+
+[sinattractor.bas](sinattractor.bas)
+
+[sinattractorspecial.bas](sinattractorspecial.bas)
