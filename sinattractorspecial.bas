@@ -1,4 +1,4 @@
-' x+sin(y) Attractor   K Moerman 2026
+' x+sin(y) Modified Attractor   K Moerman 2026
 ' Visual effect based on FB post by Johnny Ray Tellefson and
 ' explanations in the comments by Jonathan David Gilbert
 ' in FB group "BASIC Programming Language"
@@ -18,7 +18,7 @@ Dim As Double x, y, x2, y2, colscale
 Randomize Timer
 ' set up image
 Screen _NewImage(H * XMAX / YMAX, H, 32): _Title "x=x+sin(y) y=y+sin(x) attractor"
-Window (-XMAX, -YMAX)-(XMAX, YMAX) 'automaitically scale coordinates to image
+Window (-XMAX, -YMAX)-(XMAX, YMAX) ''automatically scale coordinates to image
 ' precalc this value
 colscale = 255 / NLINES
 ' choose random init. points x,y and iterate
