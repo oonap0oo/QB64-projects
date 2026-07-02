@@ -820,3 +820,17 @@ The two pieces of code:
 [sinattractor.bas](sinattractor.bas)
 
 [sinattractorspecial.bas](sinattractorspecial.bas)
+
+## 24 hour analog clock
+
+An analog clock which shows hours in 24h format.
+
+The faceplate with static text and markers are drawn once and kept as image in memory. Each second this image is put on top of the existing clock erasing the previously drawn hands. Then the hour, minutes and seconds hands are redrawn on their new position.
+
+To draw the shape for each hand, the function _MAPTRIANGLE is used.
+
+The code: [clock24h2.bas](clock24h2.bas)
+
+A GIF recording of the clock:
+
+![clock24h2.gif](clock24h2.gif)
