@@ -839,13 +839,13 @@ A GIF recording of the clock:
 
 Visual illusion based on [FB reel by 'Conscious Lines'](https://www.facebook.com/reel/2040723323204086)
 
-A variant of illusions known as 'Primrose's field'
-
 ![optical_illusion.png](optical_illusion.png)
 
-This program only uses legacy QBASIC and QUICKBASIC functionality, so no added functions of QB64
+A variant of illusions known as 'Primrose's field' The back and white crosses seems to warp the checkerboard into looking 'wavy'
 
-This program was tested to also run on QBASIC 1.1 in DOSBOX
+The code periodically fades the white crosses to black revealing the regular straight lines of the checkerboard. 
+
+This program only uses legacy QBASIC and QUICKBASIC functionality, It was tested to run in QB64 as well as QBASIC 1.1 in DOSBOX.
 
 ![optical_illusion_qbasic_dosbox.png](optical_illusion_qbasic_dosbox.png)
 
