@@ -834,3 +834,21 @@ The code: [clock24h2.bas](clock24h2.bas)
 A GIF recording of the clock:
 
 ![clock24h2.gif](clock24h2.gif)
+
+## Optical illusion, 'Primrose's field'
+
+Visual illusion based on [FB reel by 'Conscious Lines'](https://www.facebook.com/reel/2040723323204086)
+
+A variant of illusions known as 'Primrose's field'
+
+![optical_illusion.png](optical_illusion.png)
+
+This program only uses legacy QBASIC and QUICKBASIC functionality, so no added functions of QB64
+
+This program was tested to also run on QBASIC 1.1 in DOSBOX
+
+![optical_illusion_qbasic_dosbox.png](optical_illusion_qbasic_dosbox.png)
+
+![optical_illusion_qbasic_dosbox2.png](optical_illusion_qbasic_dosbox2.png)
+
+The code: [optical_illusion.bas](optical_illusion.bas)
