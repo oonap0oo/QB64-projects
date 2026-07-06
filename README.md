@@ -829,11 +829,23 @@ The faceplate with static text and markers are drawn once and kept as image in m
 
 To draw the shape for each hand, the function _MAPTRIANGLE is used.
 
-The code: [clock24h2.bas](clock24h2.bas)
+[clock24h2.bas](clock24h2.bas)
 
 A GIF recording of the clock:
 
 ![clock24h2.gif](clock24h2.gif)
+
+## 24 hour analog clock with sweeping hands and anti-aliasing
+
+Using SVG (scalable vector graphics) generated in QB64 Phoenix Edition to draw the hands of the clock with anti-aliasing.
+
+The code [clock24h3.bas](clock24h3.bas)
+
+A screenshot of this version:
+
+![clock24h3.jpg](clock24h3.jpg)
+
+
 
 ## Optical illusion, 'Primrose's field'
 
