@@ -864,3 +864,20 @@ This program only uses legacy QBASIC and QUICKBASIC functionality, It was tested
 ![optical_illusion_qbasic_dosbox2.png](optical_illusion_qbasic_dosbox2.png)
 
 The code: [optical_illusion.bas](optical_illusion.bas)
+
+## Mandala
+
+This program draws random Mandala-alike figures. 
+The ESCAPE key terminates the program, any other key draws new mandala.
+
+The figures are drawn in 256 color mode, then the RGB content of the colors is cycled.
+The figure is made of colored disks drawn in each sector of the mandala.
+
+The code: [MANDALA_QB64.BAS](MANDALA_QB64.BAS)
+
+![MANDALA_QB64_1.png](MANDALA_QB64_1.png)
+
+![MANDALA_QB64_5.png](MANDALA_QB64_5.png)
+
+![MANDALA_QB64_7.png](MANDALA_QB64_7.png)
+
