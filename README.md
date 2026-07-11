@@ -885,11 +885,9 @@ The code: [MANDALA_QB64.BAS](MANDALA_QB64.BAS)
 
 The figures are created using SVG (Scalable Vector Graphics), The generated SVG code is used to display in program but can also be saved as an SVG file for further use. The figure is made of colored disks drawn in each sector of the mandala. The number of sectors and number of disks per sector can be modified.
 
-The code: 
+The code: [MANDALA_QB64_SVG.BAS](MANDALA_QB64_SVG.BAS)
 
-Screenshot: [MANDALA_QB64_SVG.BAS](MANDALA_QB64_SVG.BAS)
-
-![mandala_svg_screenshot.png](mandala_svg_screenshot.png)
+Screenshot: ![mandala_svg_screenshot.png](mandala_svg_screenshot.png)
 
 The generated SVG file: ![mandala.svg](mandala.svg)
 
