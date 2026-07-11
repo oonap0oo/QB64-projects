@@ -881,3 +881,25 @@ The code: [MANDALA_QB64.BAS](MANDALA_QB64.BAS)
 
 ![MANDALA_QB64_7.png](MANDALA_QB64_7.png)
 
+## Mandala using SVG
+
+The figures are created using SVG (Scalable Vector Graphics), The generated SVG code is used to display in program but can also be saved as an SVG file for further use. The figure is made of colored disks drawn in each sector of the mandala. The number of sectors and number of disks per sector can be modified.
+
+The code: 
+
+Screenshot: [MANDALA_QB64_SVG.BAS](MANDALA_QB64_SVG.BAS)
+
+![mandala_svg_screenshot.png](mandala_svg_screenshot.png)
+
+The generated SVG file: ![mandala.svg](mandala.svg)
+
+Generated SVG file opened in Edge browser and zoomed in. The vector format does not show pixelated details regardless of zoom level.
+
+![mandala_svg_edge_screenshot.png](mandala_svg_edge_screenshot.png)
+
+The same SVG file opened in Inkscape and modified:
+
+![mandala_svg_inkscape_screenshot.png](mandala_svg_inkscape_screenshot.png)
+
+![mandala_svg_inkscape_screenshot2.png](mandala_svg_inkscape_screenshot2.png)
+
