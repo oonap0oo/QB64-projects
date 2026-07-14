@@ -913,6 +913,8 @@ Fun to play with but a bit complicated so far as which number does what, how did
 
 The code: [quiverbloom2.bas](quiverbloom2.bas)
 
+The [animation on Youtube](https://youtu.be/o0DeCfCsCa4)
+
 A screenshot from the animation:
 
 ![quiverbloom2.png](quiverbloom2.png)
