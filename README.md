@@ -901,3 +901,22 @@ The same SVG file opened in Inkscape and modified:
 
 ![mandala_svg_inkscape_screenshot2.png](mandala_svg_inkscape_screenshot2.png)
 
+## Swimming Quiverbloom
+
+Known by it's full name 'Magnoquill Driftflare Quiverbloom'
+Used info from [Wolfram code](https://community.wolfram.com/groups/-/m/t/3516580?p_p_auth=FgO1nw3g)
+Which in turn was based on another [post on X.com](https://x.com/yuruyurau/status/1942231466446057727) which is possibly the original?
+
+Using the equations from the Wolfram code initially, I was able to let the Quiverbloom 'swim around in circles' and gave it some color. 
+
+Fun to play with but a bit complicated so far as which number does what, how did the original creator come up with this?
+
+The code: [quiverbloom2.bas](quiverbloom2.bas)
+
+A screenshot from the animation:
+
+![quiverbloom2.png](quiverbloom2.png)
+
+
+
+
