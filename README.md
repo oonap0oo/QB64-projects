@@ -920,5 +920,11 @@ A screenshot from the animation:
 ![quiverbloom2.png](quiverbloom2.png)
 
 
+An attempt to make an own shape using similar technique. Ofcourse much less sofisticated then the work of yuruyurau.  
+
+The code: [own_shape.bas](own_shape.bas)
+
+![own_shape.png](own_shape.png)
+
 
 
