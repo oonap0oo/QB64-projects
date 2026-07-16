@@ -919,10 +919,13 @@ A screenshot from the animation:
 
 ![quiverbloom2.png](quiverbloom2.png)
 
+## Simple Swimmer
 
-An attempt to make an own shape using similar technique. Ofcourse much less sofisticated then the work of yuruyurau.  
+An attempt to make an own shape using similar technique as Quiverbloom. Of course much less sofisticated then the work of [yuruyurau](https://x.com/yuruyurau).  
 
 The code: [own_shape.bas](own_shape.bas)
+
+See the [animation on Youtube](https://youtu.be/_a7px0wOCO4)
 
 ![own_shape.png](own_shape.png)
 
