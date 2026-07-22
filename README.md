@@ -945,6 +945,8 @@ The creatures and the "plants" at the bottom are re-calculated and drawn each fr
 
 The code: [zoo.bas](zoo.bas)
 
+View the [animation on Youtube](https://youtu.be/n6-TTefnBAc)
+
 A still from the animation:
 
 ![zoo.png](zoo.png)
