@@ -929,5 +929,26 @@ See the [animation on Youtube](https://youtu.be/_a7px0wOCO4)
 
 ![own_shape.png](own_shape.png)
 
+## Jellies, swimmers and snails   
+
+Made using QB64 Phoenix Edition, also compiles using other QB64 version
+
+"It's life, Jim, but not as we know it"
+
+After trying creating some own creatures inspired by the very advanced work of [yuruyurau](https://x.com/yuruyurau), i decided to put them in a cave of sorts.
+
+Each "creature" and the cave itself is made using math functions. 
+
+There are two fixed images created at start of the program. One as background and a second as foreground with the black border, it is transparent in the middle. 
+
+The creatures and the "plants" at the bottom are re-calculated and drawn each frame as they move.
+
+The code: [zoo.bas](zoo.bas)
+
+A still from the animation:
+
+![zoo.png](zoo.png)
+
+
 
 
