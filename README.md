@@ -904,8 +904,9 @@ The same SVG file opened in Inkscape and modified:
 ## Swimming Quiverbloom
 
 Known by it's full name 'Magnoquill Driftflare Quiverbloom'
-Used info from [Wolfram code](https://community.wolfram.com/groups/-/m/t/3516580?p_p_auth=FgO1nw3g)
-The original work is shown in this post: [post on X.com](https://x.com/yuruyurau/status/1942231466446057727) 
+I used info from [Wolfram code](https://community.wolfram.com/groups/-/m/t/3516580?p_p_auth=FgO1nw3g)
+
+The original work by [yuruyurau](https://x.com/yuruyurau) is shown in this [post on X.com](https://x.com/yuruyurau/status/1942231466446057727) 
 
 Using the equations from the Wolfram code initially, I was able to let the Quiverbloom 'swim around in circles' and gave it some color. 
 
