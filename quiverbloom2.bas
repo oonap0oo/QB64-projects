@@ -1,6 +1,6 @@
 ' Swimming Quiverbloom            K Moerman 2026
 ' Based on info at https://community.wolfram.com/groups/-/m/t/3516580?p_p_auth=FgO1nw3g
-' EDIT: Original work: https://x.com/yuruyurau/status/1942231466446057727
+' Original work: https://x.com/yuruyurau/status/1942231466446057727
 SCREEN _NEWIMAGE(1000, 900, 32): _TITLE "Swimming Quiverbloom"
 WINDOW SCREEN(-190, -200)-(190, 200)
 DO
