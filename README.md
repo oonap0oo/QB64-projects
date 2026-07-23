@@ -910,8 +910,6 @@ The original work by [yuruyurau](https://x.com/yuruyurau) is shown in this [post
 
 Using the equations from the Wolfram code initially, I was able to let the Quiverbloom 'swim around in circles' and gave it some color. 
 
-Fun to play with but a bit complicated so far as which number does what, how did the original creator come up with this?
-
 The code: [quiverbloom2.bas](quiverbloom2.bas)
 
 The [animation on Youtube](https://youtu.be/o0DeCfCsCa4)
