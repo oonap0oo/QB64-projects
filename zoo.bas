@@ -133,7 +133,7 @@ SUB Swimmer (t, dr, scale)
     da = 1 / 2499 / scale * dr / 0.75 ' determine number of points to be calculated
     FOR a = 0 TO 1 STEP da ' loop for drawing shape
         at = 2 * a * _PI - 8 * t ' combination a (part of shape) and time
-        b = SIN(himh * a) * (.7 + SIN(930 * a)) ' main shape of body
+        b = SIN(450 * a) * (.7 + SIN(930 * a)) ' main shape of body
         e = 2 * a * EXP(-a * 8) ' envelope applied to body
         l = 1.5 * scale * (0.7 - a) * (1 - b * b / 8) + t ' constructing shape along its length
         w = scale * (e * b - SIN(at) / 12) + dr ' constructing shape in direction of it's width
