@@ -926,6 +926,9 @@ The code: [own_shape.bas](own_shape.bas)
 
 See the [animation on Youtube](https://youtu.be/_a7px0wOCO4)
 
+This code ported to P5.JS, view online:
+[https://editor.p5js.org/KMoerman/full/Z5zEQsANe](https://editor.p5js.org/KMoerman/full/Z5zEQsANe)
+
 ![own_shape.png](own_shape.png)
 
 ## Jellies, swimmers and snails   
