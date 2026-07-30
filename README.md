@@ -953,6 +953,14 @@ A still from the animation:
 
 ![zoo.png](zoo.png)
 
+## Floaty
 
+Another 'creature", it has long tentacles and seems to float in circles. All made from math functions.
+
+The code: [floaty.bas](floaty.bas)
+
+A still from the animation:
+
+![floaty.png](floaty.bas)
 
 
