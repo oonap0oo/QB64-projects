@@ -961,6 +961,6 @@ The code: [floaty.bas](floaty.bas)
 
 A still from the animation:
 
-![floaty.png](floaty.bas)
+![floaty.png](floaty.png)
 
 
