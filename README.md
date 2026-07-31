@@ -963,4 +963,19 @@ A still from the animation:
 
 ![floaty.png](floaty.png)
 
+## Reflections
+
+This is an interactive toy program based on points that reflect off the inside of a circle.
+
+The points are emitted from a source which can be re-positioned using a mouse click. Each point has it's own direction (angle) and color. 
+
+After reflecting an adjustable number of times, a point is re-emitted from the source at it's original direction. The maximum number of reflections can be changed.
+
+The code: [reflections2.bas](reflections2.bas)
+
+A still from the program output:
+
+![reflections2.png](reflections2.png)
+
+
 
