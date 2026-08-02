@@ -986,8 +986,8 @@ A still from the program output:
 One set of equations mapping a point on a regular plane (x,y) to a Poincare disk (xp,yp)
 
     r = sqr(x^2 + y^2)
-    xd = tanh(r / 2) * x / r
-    yd = tanh(r / 2) * y / r
+    xp = tanh(r / 2) * x / r
+    yp = tanh(r / 2) * y / r
 
 Using these, the program draws a figure mapped on the disk and animates it by translating in x and y direction.
 
