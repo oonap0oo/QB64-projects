@@ -959,6 +959,8 @@ Another 'creature", it has long tentacles and seems to float in circles. All mad
 
 The code: [floaty.bas](floaty.bas)
 
+[View on Youtube](https://youtu.be/X5ZT6SHm030?si=W-J8EMMdYsj2a40U)
+
 A still from the animation:
 
 ![floaty.png](floaty.png)
@@ -973,9 +975,26 @@ After reflecting an adjustable number of times, a point is re-emitted from the s
 
 The code: [reflections2.bas](reflections2.bas)
 
+[View on Youtube](https://youtu.be/NlJdYgzDoKY?si=LhNtlIONiuQHvioz)
+
 A still from the program output:
 
 ![reflections2.png](reflections2.png)
 
+## Poincare disk
 
+One set of equations mapping a point on a regular plane (x,y) to a Poincare disk (xp,yp)
 
+    r = sqr(x^2 + y^2)
+    xd = tanh(r / 2) * x / r
+    yd = tanh(r / 2) * y / r
+
+Using these, the program draws a figure mapped on the disk and animates it by translating in x and y direction.
+
+The code: [poincare_disk2.bas](poincare_disk2.bas)
+
+[view the animation on Youtube](https://youtu.be/9HDcLh3lBms?si=QF9aawVF-xWIAzRC)
+
+A still from the animation:
+
+![poincare_disk2.png](poincare_disk2.png)
